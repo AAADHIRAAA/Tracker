@@ -1,0 +1,18 @@
+1.In the beginning, Ram works at a rate such that he can finish a piece of work in 24 hrs, but he only works at this rate for 16 hrs.
+After that, he works at a rate such that he can do the whole work in 18 hrs. If Ram is to finish this work at a stretch, how many hours will he take to finish this work?
+1) 12 hrs 2) 18 hrs 3) 11½ hrs 4) 15 hrs 5) 22 hrs
+Answer: 22hrs
+16/24 -> 2/3 work completed in 16hrs
+1/3 remaining work -> 1/3 *18 = 6hrs 
+total = 16+6 =22hrs
+
+
+2.A can do a piece of work in 10 days, and B can do the same work in 20 days. With the help of C, they finished the work in 4 days. C can do the work in how many days, working alone?
+1. 5 days 2. 10 days 3. 15 days 4. 20 days 5. 25 days
+Answer: 10days
+
+Lcm of 10 and 20 is 20
+Efficiency of A and B is 2 and 1
+total work 20 , then combined effiency -> 20/4(work done in 4 days) -> 5
+from above , the efficiency of c is 2 (2+1+2=5)
+work done by c alone = 20/2 = 10days
