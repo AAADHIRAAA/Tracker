@@ -1,0 +1,24 @@
+1.) P, Q and R can do a job in 20, 30 and 60 days respectively. In how many days can P do the job if he is assisted by Q and R every third day?
+
+A. 11 days
+B. 15 days
+C. 17 days
+D. 16 days
+E. 18 days
+Answer: 15days
+1 cycle 3 days--> eff of P, Q, R is 3:2:1 .. one cycle = 3+ 3+ 6 = 12parts
+to complete 60 parts, 5 cycles are needed.. 5 * 3 = 15days
+
+
+2.) In a factory, 20 people can make 20 toys in 15 days working 10 hours per day. Then, in how many days can 25 persons make 30 toys working 20 hr per day?
+
+A) 6 days
+B) 9 days
+C) 10 days
+D) 12 days
+E) 15 days
+
+Answer: 9 days
+20*15*10/20 = 25 * 20 * x/30
+150 = 50x/3
+3=x/3  -> x=9 days
