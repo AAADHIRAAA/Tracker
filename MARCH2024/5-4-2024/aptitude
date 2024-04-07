@@ -1,0 +1,21 @@
+1). Sohan and Mohan can finish a piece of work in 32 days. If Rohan also joins, they can finish the work in 24 days. How many days will Rohan take to finish the work if he works alone?
+a)96 days 
+b)48 days
+c)32  days
+d)64 days
+Answer: 96 days
+sohan & mohan one day work = 1/32
+sohan, mohan & rohan one day work = 1/24
+rohan one day work = 1/24 - 1/32
+                   = 4 - 3 /96 => 1/96 
+
+2). A can build the wall in 20 days and B can build it in 30 days. C can destroy the wall in 60 days. If A, B, and C work together, how many days will they take to build the wall?
+a)36 days
+b)96 days
+c)15 days
+d)10 days
+Answer: 15 days
+Lcm of 20 , 30 and 60 is 60
+Eff of A, B and C is 3: 2: 1
+3+2-1 => 4 
+60/4 => 15 days
