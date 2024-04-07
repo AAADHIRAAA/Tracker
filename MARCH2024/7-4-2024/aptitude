@@ -1,0 +1,23 @@
+M did a piece of work in 5 days. That piece of work was done by N in 9 days. If M and N worked together, they got total wages of Rs 4200. Find the share of N.
+
+A) 1500
+B) 2000
+C) 1000
+D) 1200
+E) None of these
+Answer: 1500
+Lcm of 5 and 9 is 45
+Eff of M and N is 9:5 total 14 -> 4200/14 -> 300
+N's share 300*5 -> 1500
+
+A can do a piece of work in 9 days and B in 18 days. They begin together, but A goes away three days before the work is finished. The work lasts for
+a) 6 Days
+b) 8 Days
+c) 12 Days
+d) 10 Days
+e) 3 Days
+Answer: 8 days
+let the total days be x
+(x-3)*3/18  + 3/18 =1 => 3x-9 + 3 /18 -> 3x-6/18=1
+3x-6 =18
+3x = 24 -> x = 8days
