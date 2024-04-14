@@ -1,0 +1,28 @@
+1.Pipe A takes 48 minutes to fill the tank and pipe B takes 80 minutes. Both pipes were open for the first ten minutes, after that only B was open. What is the total time taken for the tank to be filled?
+
+a) 160/3  minutes
+b) 190/3 minutes
+c) 200/3 minutes
+d) 210/3  minutes 
+solution: 190/3
+Lcm of 48 and 80 is 240
+Eff of A and B is 5:3 
+one min work = 240/8 = 30
+10 min work = 1/3
+remaining work = 2/3 * 240 = 160 done by b so 160/3
+total time = 10+ 160/3 => 190/3
+
+2.Three pipes A, B and C can fill a cistern in 270 hours. After working together for 90 hours, C is closed, then A and B filled the remaining part in 270 hours. Find number of hours taken by C required to fill the cistern. 
+
+a)800
+b) 810
+c) 820
+d) 790
+
+Solution: 810
+total work 270
+work done for 90hrs , so rem = 2/3 work
+A+B+C = 1/270
+A+B = 2/3 * 270 = 1/405
+=> A+B+C - A+B => C => 1/270 - 1/405
+=> 810
