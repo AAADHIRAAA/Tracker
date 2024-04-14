@@ -1,0 +1,22 @@
+1.Two pipes A and B can fill a cistern in 37 minutes and 45 minutes respectively. Both pipes are opened. The cistern will be filled in just half an hour, if the B is turned off after:
+
+    5 min.
+    9 min.
+   10 min.
+   15 min.
+Solution: 9 min
+A=30/37
+B = 1-30/37
+B= 45 * 7/37 = 9 min
+
+2.Two outlet pipes A and B are connected to a full tank. Pipe A alone can empty the tank in 10 minutes and pipe B alone can empty the tank in 30 minutes. If both are opened together, how much time will it take to empty the tank completely?
+
+7 minutes
+7 minutes 30 seconds
+6 minutes
+6 minutes 3 seconds
+Solution: 7mins 30secs
+
+Total capactiy= 30
+Eff of A and B is 3:1
+30/4 = 7mins 30secs
