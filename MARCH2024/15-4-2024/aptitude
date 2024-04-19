@@ -1,0 +1,16 @@
+1. Two pipes M and N can fill a tank in 22 hours and 33 hours respectively. In how much time will the tank be full, if both the pipes are opened simultaneously?
+a, 5/66 hours
+b,66/5 hours
+c,5/33 hours
+d,33/5 hours
+Answer: 5/66
+M in 1hr= 1/22
+N in 1hr= 1/33
+On taking lcm we get, 726... on dividing which we get 5/66hrs
+
+2. Pipe P can fill a tank in 38 hours. Pipe Q alone can fill it in 19 hours. Pipe R can empty the full tank in 133 hours. If all the pipes are opened together, how much time will be needed to make the tank full?
+A,13 hours
+B,15 hours
+C,14 hours
+D,16 hours
+Answer:
